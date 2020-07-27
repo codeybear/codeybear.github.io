@@ -1,0 +1,6 @@
+Read up on spacing and dividers
+https://getbootstrap.com/docs/4.1/utilities/spacing/
+
+Find out if there can be a base page
+
+Find out about static files
